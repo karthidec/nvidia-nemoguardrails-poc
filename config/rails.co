@@ -1,0 +1,7 @@
+define user express greeting
+  "Hello nemoguardrails!"
+
+define bot express greeting
+  "from nemoguardrails - controlling your message response"
+
+   
