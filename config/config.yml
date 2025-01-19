@@ -1,0 +1,6 @@
+models:
+ - type: main
+   engine: huggingface_endpoint
+   model: mistralai/Mistral-7B-Instruct-v0.2
+   parameters:
+    repo_id: mistralai/Mistral-7B-Instruct-v0.2
